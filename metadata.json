@@ -1,0 +1,6 @@
+{
+  "name": "Upscale Labs",
+  "description": "Premium landing page for Upscale Labs, a new age marketing agency driving absolute revenue velocity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
