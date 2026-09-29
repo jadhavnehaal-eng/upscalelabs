@@ -21,7 +21,7 @@ export default function Footer() {
               <span className="w-1.5 h-1.5 rounded-none bg-[#fcfcfd]" />
             </div>
             <p className="text-xs text-neutral-400 font-light leading-relaxed max-w-sm">
-              We engineer custom conversion loops, execute metric-focused performance marketing, and deploy high-converting platform funnels. Stark design. Pure performance.
+              We engineer custom conversion loops, execute metric-focused performance marketing, and deploy high-converting platform funnels.
             </p>
           </div>
 
