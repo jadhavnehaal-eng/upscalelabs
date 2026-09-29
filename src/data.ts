@@ -3,7 +3,6 @@ import { BrandItem, MetricItem, ServiceItem } from "./types";
 export const BRANDS: BrandItem[] = [
   { name: "SammySosa", locations: ["Lisbon", "Barreiro", "Mumbai", "Navi Mumbai"] },
   { name: "desifr studio", locations: ["Mumbai", "Nepal"] },
-  { name: "Greensole", locations: ["India", "USA", "Europe"] },
   { name: "Oliva", locations: ["Lisbon"] },
   { name: "EdPro UPSC", locations: ["India"] },
   { name: "Study Smart IAS PCS", locations: ["Lucknow"] },
