@@ -10,6 +10,7 @@ export const BRANDS: BrandItem[] = [
   { name: "Singh Interiors", locations: ["Mumbai"] },
   { name: "One Urban Solutions", locations: ["Mumbai"] },
   { name: "Heaven Nest", locations: ["Thane"] },
+  { name: "Scents by SAKA", locations: ["India"] },
 ];
 
 export const METRICS: MetricItem[] = [
