@@ -11,6 +11,7 @@ export const BRANDS: BrandItem[] = [
   { name: "One Urban Solutions", locations: ["Mumbai"] },
   { name: "Heaven Nest", locations: ["Thane"] },
   { name: "Scents by SAKA", locations: ["India"] },
+  { name: "Sante Spa Cuisine", locations: ["Mumbai"] },
 ];
 
 export const METRICS: MetricItem[] = [
